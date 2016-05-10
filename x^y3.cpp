@@ -1,6 +1,7 @@
 #include <iostream>
 #include <String.h>
 using namespace std;
+// 对x^y取后三位数
 int main()
 {
 	int x,y;
