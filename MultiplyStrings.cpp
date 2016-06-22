@@ -1,8 +1,8 @@
 /*
-��Ŀ��Multiply Strings
-Ҫ��Given two numbers represented as strings, return multiplication of the numbers as a string.
+ÌâÄ¿£ºMultiply Strings
+ÒªÇó£ºGiven two numbers represented as strings, return multiplication of the numbers as a string.
 */
-
+// 实现麻烦了点
 #include <iostream>
 #include <string>
 #include <vector>
