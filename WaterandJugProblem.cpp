@@ -1,6 +1,6 @@
 /*
-ÌâÄ¿£ºWater and Jug Problem
-ÒªÇó£ºYou are given two jugs with capacities x and y litres. There is an infinite 
+é¢˜ç›®ï¼šWater and Jug Problem
+è¦æ±‚ï¼šYou are given two jugs with capacities x and y litres. There is an infinite 
 amount of water supply available. You need to determine whether it is possible to 
 measure exactly z litres using these two jugs.If z liters of water is measurable, 
 you must have z liters of water contained within one or both buckets by the end.
@@ -10,10 +10,10 @@ Empty any of the jugs.
 Pour water from one jug into another till the other jug is completely full or the 
 first jug itself is empty.
 
-ÌâÄ¿´óÒâ£ºÓÃx¡¢yÌå»ıµÄÁ½¸öË®ºøÀ´²âÁ¿³özÌå»ı¡£
+é¢˜ç›®å¤§æ„ï¼šç”¨xã€yä½“ç§¯çš„ä¸¤ä¸ªæ°´å£¶æ¥æµ‹é‡å‡ºzä½“ç§¯ã€‚
 
-Ë¼Â·£º±¾ÌâµÄ½â·¨ÔÚÓÚÇó³öx¡¢yµÄ×î´ó¹«Ô¼Êı£¬Èç¹ûzÄÜÕû³ı´Ë×î´ó¹«Ô¼Êı£¬ÔòÊÇÄÜ²âÁ¿³öµÄ£¬
-·´Ö®ÔòÎŞ·¨²â³ö¡££¨ÖÁÓÚÎªÊ²Ã´¾Í²»ÖªµÀÁË£¬Ã»ÏëÍ¨£©
+æ€è·¯ï¼šæœ¬é¢˜çš„è§£æ³•åœ¨äºæ±‚å‡ºxã€yçš„æœ€å¤§å…¬çº¦æ•°ï¼Œå¦‚æœzèƒ½æ•´é™¤æ­¤æœ€å¤§å…¬çº¦æ•°ï¼Œåˆ™æ˜¯èƒ½æµ‹é‡å‡ºçš„ï¼Œ
+åä¹‹åˆ™æ— æ³•æµ‹å‡ºï¼Œæœ€å¤§å…¬çº¦æ•°ä½¿ç”¨çš„æ˜¯æ¬§å‡ é‡Œå¾—ç®—æ³•æ±‚è§£ã€‚ï¼ˆè‡³äºä¸ºä»€ä¹ˆå°±ä¸çŸ¥é“äº†ï¼Œæ²¡æƒ³é€šï¼‰
 */
 
 #include <iostream>
