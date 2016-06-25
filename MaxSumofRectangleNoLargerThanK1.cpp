@@ -1,12 +1,12 @@
 /*
-ÌâÄ¿£ºMax Sum of Rectangle No Larger Than K
-ÒªÇó£ºGiven a non-empty 2D matrix matrix and an integer k, find the max sum 
+é¢˜ç›®ï¼šMax Sum of Rectangle No Larger Than K
+è¦æ±‚ï¼šGiven a non-empty 2D matrix matrix and an integer k, find the max sum 
 of a rectangle in the matrix such that its sum is no larger than k.
 
-ÌâÄ¿´óÒâ£ºÕÒ³ö¶şÎ¬¾ØÕóÖĞÈÎÒâ¾ØĞÎÔªËØºÍ×î´ó²»³¬¹ıkµÄÖµ¡£
+é¢˜ç›®å¤§æ„ï¼šæ‰¾å‡ºäºŒç»´çŸ©é˜µä¸­ä»»æ„çŸ©å½¢å…ƒç´ å’Œæœ€å¤§ä¸è¶…è¿‡kçš„å€¼ã€‚
 
-Ë¼Â·1£º´ÓµÚÒ»¸öÔªËØ¿ªÊ¼±éÀú£¬ÕÒ³ö´ÓÃ¿¸öÔªËØ¿ªÊ¼µÄ¾ØÕóµÄºÍµÄ×î´óÖµ£¬×îºóÔÙÕÒ³ö
-ËùÓĞ×î´óÖµÖĞµÄ×î´óÖµ¡£(Ëã·¨¸´ÔÓ¶È¹ı¸ß£¬ÎªO((mn)^2)£¬¿Õ¼ä¸´ÔÓ¶ÈO(m*n))
+æ€è·¯1ï¼šä»ç¬¬ä¸€ä¸ªå…ƒç´ å¼€å§‹éå†ï¼Œæ‰¾å‡ºä»æ¯ä¸ªå…ƒç´ å¼€å§‹çš„çŸ©é˜µçš„å’Œçš„æœ€å¤§å€¼ï¼Œæœ€åå†æ‰¾å‡º
+æ‰€æœ‰æœ€å¤§å€¼ä¸­çš„æœ€å¤§å€¼ã€‚(ç®—æ³•å¤æ‚åº¦è¿‡é«˜ï¼Œä¸ºO((mn)^2)ï¼Œç©ºé—´å¤æ‚åº¦O(m*n))
 */
 
 #include <iostream>
